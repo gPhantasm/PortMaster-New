@@ -7,7 +7,7 @@ This port currently supports **v1.1.3** of the Steam or Itch.io version of the g
 ## Instructions
 
 - Purchase game via https://store.steampowered.com/app/2121980/Void_Stranger/ 
-- Place all game .png, .dat, .csv, and .win files in the "/gamedata/" folder. 
+- Place all game .png, .dat, .csv, and .win files in the assets folder. 
 - On first run, the game will take 20-30 minutes to load. The port is patching the data.win file, compressing audio files, and parsing the .csv game data file. Subsequent launches take 10-20 seconds.
 
 ## Controls
